@@ -164,17 +164,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## ⚠️ Disclaimer
 
 This tool is designed for educational and authorized forensic analysis purposes only. Users are responsible for ensuring they have proper authorization before analyzing any disk images. The authors are not responsible for any misuse of this software.
-
-## 📞 Support
-
-For support, please open an issue on GitHub or contact the maintainers.
-
-## 🔗 Related Projects
-
-- [The Sleuth Kit](https://www.sleuthkit.org/) - Core forensics library
-- [Autopsy](https://www.autopsy.com/) - GUI forensics platform
-- [FTK Imager](https://accessdata.com/products-services/forensic-toolkit-ftk/ftk-imager) - Commercial forensics tool
-
 ---
 
 **Note**: This tool is designed for Linux/Unix systems. For Windows forensics, consider using Windows-native tools like FTK Imager or Autopsy. 
