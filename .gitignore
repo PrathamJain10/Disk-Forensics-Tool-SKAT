@@ -1,0 +1,87 @@
+# Disk Forensics Tool (SKAT) - Git Ignore File
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Forensic evidence and reports (sensitive data)
+evidence/*.dd
+evidence/*.E01
+evidence/*.raw
+evidence/*.img
+evidence/*.bin
+evidence/*.json
+reports/*.txt
+reports/*.csv
+reports/*.json
+
+# Logs
+*.log
+logs/
+
+# Sample disk images (large files)
+*.E01
+*.dd
+*.raw
+*.img
+*.vmdk
+*.vhd
+*.vhdx
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Configuration files with sensitive data
+config.ini
+secrets.json
+.env
+
+# Backup files
+*.bak
+*.backup
+*.old 

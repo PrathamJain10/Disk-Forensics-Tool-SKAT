@@ -1,0 +1,5 @@
+2025-04-09 13:48:21,190 - SKAT - ERROR - Missing required Sleuth Kit tools: mmls, fls, icat, blkcat, fsstat, mmstat
+2025-04-09 13:48:21,191 - SKAT - ERROR - Please install The Sleuth Kit: https://www.sleuthkit.org/sleuthkit/download.php
+2025-04-09 13:48:46,968 - SKAT - INFO - Creating forensic image of /dev/sda to evidence.dd
+2025-06-26 06:31:50,982 - SKAT - ERROR - Missing required Sleuth Kit tools: mmls, fls, icat, blkcat, fsstat, mmstat
+2025-06-26 06:31:50,982 - SKAT - ERROR - Please install The Sleuth Kit: https://www.sleuthkit.org/sleuthkit/download.php

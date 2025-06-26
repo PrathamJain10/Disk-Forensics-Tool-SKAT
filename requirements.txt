@@ -1,0 +1,7 @@
+# Python dependencies for Disk Forensics Tool (SKAT)
+# Core dependencies
+pytsk3>=20170802
+
+# Additional dependencies for enhanced functionality
+# Note: The Sleuth Kit command-line tools must be installed separately
+# via system package manager (apt, yum, brew, etc.) 
